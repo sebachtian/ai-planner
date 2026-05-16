@@ -8,8 +8,9 @@
 - [x] Create GitHub repository (ai-planner)
 - [x] Define purpose statement
 - [x] Document core capabilities
-- [ ] Configure cron schedule for periodic check-ins
-- [ ] Set up initial goals and milestones
+- [x] Configure cron schedule for periodic check-ins
+- [x] Set up initial goals and milestones
+- [x] Create TASKS.md for autonomous task tracking
 
 ### Phase 2: Autonomy
 - [ ] Define check-in interval (e.g., every 6 hours)
