@@ -9,8 +9,7 @@
 
 | ID | Task | Status | Created | Due | Auto-Exec |
 |----|------|--------|---------|-----|-----------|
-| T001 | Complete Phase 1 Foundation | In Progress | 17 May 2026 | 18 May 2026 | Yes |
-| T002 | Update PLAN.md to reflect current state | Pending | 17 May 2026 | 17 May 2026 | Yes |
+| T007 | Establish feedback loop for goal refinement | Pending | 17 May 2026 | 20 May 2026 | Yes |
 
 ### Medium Priority
 
@@ -41,6 +40,8 @@
 | C003 | Document core capabilities | 17 May 2026 | CAPABILITIES.md complete |
 | C004 | Configure cron schedule | 17 May 2026 | Job 22874c9a1868 active, hourly check-ins |
 | C005 | Set up delivery channel | 17 May 2026 | Discord origin delivery configured |
+| C006 | Complete Phase 1 Foundation | 17 May 2026 | All Phase 1 milestones achieved |
+| C007 | Update PLAN.md to reflect current state | 17 May 2026 | Phase 2 progress documented, committed 086c8d5 |
 
 ## Execution Rules
 
